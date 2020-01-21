@@ -1,0 +1,44 @@
+section{
+    width: 90px;
+    margin: 0 auto;
+    padding-top: 25px;
+   
+}
+h1{
+    font-style: italic;
+    color:red;
+    font-size: 85px;
+    padding-top: 20px;
+    text-align: center;
+    
+}
+.brown{
+    margin: 0 auto;
+    background-color: blue;
+    text-decoration: burlywood;
+    padding-top: 20px;
+    
+}
+.M{
+    align-content: center;
+    width: 30px;
+    font-size: 20px;
+    font-style: italic;
+    color:azure;
+}
+.Cl{
+    align-content: flex-start;
+    width: 30px;
+    font-style: initial;
+    color:lemonchiffon;
+    font-size: 20px;
+
+}
+.C{
+    align-content: flex-end;
+    width:30px;
+    font-style: inherit;
+    font-size:24px;
+    color: darkgray;
+
+}
